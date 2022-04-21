@@ -1,0 +1,46 @@
+.leaderboard {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid;
+    width: 75%;
+  }
+
+  .center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 32px;
+  }
+  
+  th {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  tr {
+    background-color: #EEEEFF;
+  }
+
+  tr:nth-child(even) {
+    background-color: rgba(39, 22, 153, 0.5);
+  }
+
+  .button{
+    background-color: rgba(39, 22, 153, 1);
+    color: white;
+    font-size: 15px;
+    padding: 10px 30px;
+  }
+  
+  

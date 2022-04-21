@@ -1,0 +1,25 @@
+.button{
+    background-color: rgba(39, 22, 153, 1);
+    color: white;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin-top: 10px;
+    margin-left: 45%;
+  }
+
+.text{
+    color: rgba(39, 22, 153, 1);
+    text-align: center;
+}
+
+.login{
+    text-align: center; 
+}
+
+.title{
+    text-align: center; 
+}
+
+.error{
+    text-align: center; 
+}
